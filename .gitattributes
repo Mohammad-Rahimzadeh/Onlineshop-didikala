@@ -1,0 +1,8 @@
+*.py linguist-detectable=true
+
+*.js linguist-vendored
+*.jsx linguist-vendored
+*.ts linguist-vendored
+*.tsx linguist-vendored
+node_modules/** linguist-vendored
+public/** linguist-vendored
